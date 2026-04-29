@@ -10,5 +10,7 @@ def n():
 def num_phi():
     print((1+ 5**(1/2))/2)
 
+print("hola mundo fake")
+
 n()
 num_phi()
